@@ -81,8 +81,8 @@ class CoffeeShop {
 		//or
 
 		// const prices = this.menu.map(el => el.price)
-        // console.log("🚀 ~ cheapestItem ~ prices", prices)
-        // console.log("🚀 ~ cheapestItem ~ prices Math.min", Math.min(...prices))
+        // console.log(prices)
+        // console.log(Math.min(...prices))
 
 		//or
 
